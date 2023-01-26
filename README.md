@@ -1,4 +1,4 @@
-#### class_work EVENTS
+## class_work EVENTS
 
 #### Task 1 💻
 
@@ -49,7 +49,7 @@
 
 
 
-#### class_work Local storage API
+## class_work Local storage API
 
 #### Task 1 💻
 
