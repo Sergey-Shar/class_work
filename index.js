@@ -42,8 +42,6 @@ const form = document.querySelector(".my-form");
 const list = document.createElement("ul");
 formContainer.append(list);
 
-const a = ['qweqwe','qwdewdew']
-
 function renderList(arr) {
 	list.innerHTML = "";
 	arr.forEach((name) => {
@@ -52,5 +50,3 @@ function renderList(arr) {
 		list.append(listItem);
 	});
 }
-
-renderList(a)
